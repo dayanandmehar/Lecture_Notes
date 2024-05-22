@@ -499,8 +499,8 @@ sum of elements in intial array from index 3 to 8 = 0
 * If numbers are repeating in Prefix Sum Array, then there exists a subarray with sum 0.
 * Also, if the Prefix Sum Array element is 0, then there exists a subarray with sum 0.
     * Example: 
-        * A[] = {2, -1, 3, 5}
-        * PrefixSum[] = {2, -1, 0, 5}
+        * A[] = {-2, -1, 3, 5}
+        * PrefixSum[] = {-2, -3, 0, 5}
         * Here, 0 in PrefixSum Array implies that there exist a subarray with sum 0 starting at index 0.
           
 
